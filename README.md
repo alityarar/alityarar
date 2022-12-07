@@ -1,4 +1,6 @@
-+2 years of experience in IT companies. Advanced level of hardware, entry-level information about accounting programs. Intermediate to advanced knowledge of Adobe Photoshop CC/Premier Pro/ Lightroom
++3 years of experience in IT companies. Advanced level of hardware, entry-level information about accounting programs. Intermediate to advanced knowledge of Adobe Photoshop CC/Premier Pro/ Lightroom 
+
+InteliJ, Java, TestNG, Junit, Selenium, Cucumber, Jira,Jenkins
 
 Languages that I can speak fluently
 -Turkish
@@ -12,6 +14,8 @@ Countries and regions where I lived
 -Africa/Senegal (2.5 years, 1 city)
 -Asia/ Kazakhstan (5 years, 3 cities)
 -North America/Canada (from April 2021)
+
+I would like to briefly explain what my education and business life that I spent in 4 different continents of the world brought me. I never have any problems in interacting and communicating with different societies and cultures, I am a team player. After +6000 hours of work experience in Computer-Server hardware and technical service, I started working in the field of Manual and Automation QA. Some test automation tools, applications and software languages that I can use now: InteliJ, Java, TestNG, Junit, Selenium, Cucumber, Jira, I am trying to do API and DataBase tests with Jenkins. My main goal right now is to make a career in software.
 
 Some interests
 
